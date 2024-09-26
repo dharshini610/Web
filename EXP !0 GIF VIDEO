@@ -10,8 +10,7 @@
     <h1>Background GIF with CSS</h1>
 </body>
 </html>
-
-#css filebody {
+body {
     background: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif') no-repeat center center fixed;
     background-size: cover;
     color:white;
